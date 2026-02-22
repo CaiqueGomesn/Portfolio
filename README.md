@@ -15,6 +15,7 @@ Este projeto tem como objetivo criar uma interface funcional e intuitiva, mapean
 
 Meu portfólio para mostrar habilidades e projetos
 
+🚀 [Acesse meu protótipo no Figma](https://www.figma.com/design/b7NSXyOdLBov76ePEk816f/Construindo-os-Wireframes---esqueleto--?node-id=0-1&t=xNJJqlPu3l9VDh4E-1)
 
 
 ## 🖥 Protótipos
