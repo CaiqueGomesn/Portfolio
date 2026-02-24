@@ -1,56 +1,52 @@
-# 👋 Hi, I'm Caique Gomes
+# 👋 Hi, I'm Caique
 
-I am a professional in **career transition to technology**, combining experience in traditional CLT environments with hands-on projects in **web development, UX/UI, and Computer Science**.  
-This GitHub is my **portfolio and learning record**, showcasing my growth, prototypes, and applied projects.
+- Left CLT, diving into tech full-time.  
+- I learn by **doing**, breaking stuff, no bullshit.  
+- This GitHub shows **my projects, prototypes, and real growth**.  
 
 ---
 
 ## 🌟 My Journey
 
-### 🔹 Where I Started
-- Years of experience in CLT environments, developing discipline, focus, and problem-solving skills.  
-- Key achievements that strengthened my analytical and strategic mindset.
+### Where I Started
+- Years in CLT, learning discipline, focus, and deduction.  
+- Experience that sharpened my problem-solving skills.  
 
-### 🔹 Where I Am Now
-- Studying **Computer Science** and web development (HTML, CSS, JavaScript).  
-- Creating **interface prototypes and wireframes**, applying UX/UI principles.  
-- Tracking progress on **GitHub and Figma**, turning learning into tangible results.
+### Where I Am Now
+- Studying Computer Science, HTML, CSS, JS, and UX/UI.  
+- Building prototypes that actually work.  
+- Turning learning into results on GitHub and Figma.  
 
-### 🔹 Where I Want to Go
-- Work remotely, developing my own projects or for clients.  
-- Grow in **front-end and UX/UI**, gradually expanding to back-end and automation.  
-- Build a **solid and practical portfolio**, demonstrating real skills.
+### Where I Want to Go
+- Work remote, for clients or my own projects.  
+- Grow in front-end and UX/UI, then explore back-end and automation.  
+- Build a **practical portfolio** that shows real skills.  
 
 ---
 
 ## 💪 My Efforts and Achievements
-- 🖥️ Created detailed interface prototypes and wireframes.  
-- 📚 Continuous learning in programming, logic, and design.  
-- ⚡ Applied knowledge in practice: commits, prototypes, and small projects.  
-- 🌐 Preparing to work with international clients and remote opportunities.
+- Detailed UI prototypes and wireframes.  
+- Continuous learning in coding, logic, and design.  
+- Hands-on practice: commits, projects, and prototypes.  
+- Preparing to work with international clients.  
 
 ---
 
 ## 📝 Who I Am
-- Direct, curious, and persistent professional.  
-- Learn **by doing and practicing**, not just copying.  
-- Focused on **results, value delivery, and continuous growth**.  
+- Direct, curious, persistent.  
+- Learn by **doing**, not copying.  
+- Focused on results, delivering value, and constant growth.  
 
 ---
 
 ## 📂 Next Steps
-- Build more projects for my portfolio and advance in front-end development.  
-- Explore **remote work and freelancing** for practical experience.  
-- Improve technical English and communication skills for international projects.
+- Build more projects for my portfolio.  
+- Explore freelancing and remote work.  
+- Improve technical English and communication for international projects.  
 
 ---
 
 ## 🚀 Projects and Prototypes
-
-### 🖥 User Interface and User Journey
-- Prototypes with **low and medium fidelity**, applying visual design and usability principles.  
-- [🔗 View the prototype on Figma](https://www.figma.com/design/b7NSXyOdLBov76ePEk816f/Construindo-os-Wireframes---esqueleto--?node-id=0-1&t=xNJJqlPu3l9VDh4E-1)
-
-### 💻 Other Projects
-- soon!
+- **UI & User Journey:** Low and medium fidelity prototypes, applying design and usability principles.  
+- More projects coming soon!  
 
